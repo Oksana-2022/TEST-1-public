@@ -1,2 +1,4 @@
 # TEST-1-public
-Всем привет! Успехов в изучении материала.
+My first repository on GitHub
+
+Good luck with your studies.
